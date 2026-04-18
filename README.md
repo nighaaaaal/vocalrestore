@@ -4,6 +4,14 @@
 
 **VocalRestore** is a web-based audio manipulation tool designed to completely reverse social media voice filters. 
 
+---
+
+## 🌐 Live Demo
+**Stop cloning and start unmasking!** You can use the app right now at:
+### 👉 [vocalrestore.vercel.app](https://vocalrestore.vercel.app/)
+
+---
+
 ### 📖 The Lore (Why I Built This)
 We all have that *one* friend. The one who confidently sends a WhatsApp or Instagram voice note of themselves singing terribly, but they hide behind the "Chipmunk" or "Demon" voice filter thinking their dignity is mathematically protected by the algorithm.
 
@@ -30,7 +38,7 @@ No bloated backend frameworks here. Just pure, client-side wizardry:
 
 * **[Tone.js](https://tonejs.github.io/):** The core audio engine handling real-time pitch shifting and equalization context bridging.
 * **[lamejs](https://github.com/zhuker/lamejs):** An open-source MP3 encoder running entirely inside the browser to ensure WhatsApp compatibility.
-* **[Tailwind CSS](https://tailwindcss.com/):** For a sleek, dark-mode, glassmorphic UI. (Because if you're going to expose your friends, you should look like a pro audio engineer doing it).
+* **[Tailwind CSS](https://tailwindcss.com/):** For a sleek, dark-mode, glassmorphic UI. 
 * **[Phosphor Icons](https://phosphoricons.com/):** Clean, modern iconography.
 
 ---
@@ -63,9 +71,3 @@ If you use this to successfully prank your friends, drop a star ⭐ on the repo!
 ---
 *Disclaimer: Please use responsibly. I am not responsible for any ruined friendships, destroyed group chats, or sheer embarrassment caused by the unmasking of terrible karaoke vocals.*
 ```
-
-### Why this README works:
-* **The Hook:** The "Lore" section immediately tells a relatable and funny story. People love projects that solve real, slightly petty problems.
-* **The Badges:** The shields at the top make it look like a serious open-source project right away.
-* **The "Weaponization":** Framing the MP3 export as "Instant Weaponization" for group chats fits the prank vibe perfectly.
-* **Professional but Fun:** Even though the tone is joking, the "Tech Stack" and "Features" sections clearly demonstrate to recruiters or other developers that you know how to write solid code and understand browser security!
