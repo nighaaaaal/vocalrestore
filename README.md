@@ -70,4 +70,3 @@ If you use this to successfully prank your friends, drop a star ⭐ on the repo!
 
 ---
 *Disclaimer: Please use responsibly. I am not responsible for any ruined friendships, destroyed group chats, or sheer embarrassment caused by the unmasking of terrible karaoke vocals.*
-```
