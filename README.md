@@ -1,8 +1,3 @@
-Here is a fun, highly engaging, and mischievous `README.md` file perfect for your GitHub repository. It explains the hilarious backstory, lists the features, and makes your tech stack look incredibly professional!
-
-Copy the code below and save it as `README.md` in your repository:
-
-```markdown
 # 🎙️ VocalRestore: The "You Thought You Were Safe" Audio Reverser 🕵️‍♂️
 
 ![VocalRestore Banner](https://img.shields.io/badge/Audio-Forensics-00F0FF?style=for-the-badge) ![Zero Trust](https://img.shields.io/badge/Privacy-100%25_Local-10B981?style=for-the-badge) 
