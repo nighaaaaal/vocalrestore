@@ -49,7 +49,7 @@ Because there is no backend server, deploying and running this app is insanely e
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/nighaaaaal/vocalrestore.git](https://github.com/nighaaaaal/vocalrestore.git)
+   git clone https://github.com/nighaaaaal/vocalrestore.git
    ```
 2. Open the folder and double-click `index.html` to open it in any modern web browser.
 3. Upload a screen recording (`.mp4`) or audio file (`.mp3`, `.wav`) of the filtered voice note.
