@@ -61,10 +61,10 @@ Because there is no backend server, deploying and running this app is insanely e
 
 ## 👨‍💻 Author
 
-Crafted with malicious intent by **Mohamed Nihal**.
+Crafted with malicious intent by **Nihal**.
 
 * **GitHub:** [@nighaaaaal](https://github.com/nighaaaaal)
-* **LinkedIn:** [Mohamed Nihal](https://www.linkedin.com/in/mohamednihaltkn)
+* **LinkedIn:** [Nihal](https://www.linkedin.com/in/mohamednihaltkn)
 
 If you use this to successfully prank your friends, drop a star ⭐ on the repo!
 
